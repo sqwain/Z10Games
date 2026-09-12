@@ -6,6 +6,7 @@
 **Z10** is a free, easy-to-use game trainer for PC single-player games. No setup required — download, run, and toggle features in-game.
 
 🏠 **Official website:** <https://z10games.com>
+
 ⬇️ **Direct download:** <https://z10games.com/download/setup> (installer) · <https://z10games.com/download/portable> (portable)
 
 ## Supported Games
