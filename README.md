@@ -1,7 +1,7 @@
 # Z10 — Free PC Game Trainer
 
-[](https://z10games.com/download/setup)
-[](https://github.com/sqwain/Z10Games/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download-Z10%20for%20Windows-2ea44f?style=for-the-badge)](https://z10games.com/download/setup)
+[![Latest release](https://img.shields.io/github/v/release/sqwain/Z10Games?style=for-the-badge&label=Latest%20release&color=blue)](https://github.com/sqwain/Z10Games/releases/latest)
 
 **Z10** is a free, easy-to-use game trainer for PC single-player games. No setup required — download, run, and toggle features in-game.
 
