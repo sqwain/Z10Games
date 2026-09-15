@@ -11,13 +11,17 @@
 ## Supported Games
 
 | Game | Features | Page |
-| --- | --- | --- |
+|---|---|---|
 | Black Myth: Wukong | 44 cheats (health, mana, staff stance, cooldowns, and more) | [View](https://z10games.com/black-myth-wukong) |
-| Cyberpunk 2077 | 43 cheats (health, stamina, money, attributes, and more) | [View](https://z10games.com/cyberpunk-2077) |
-| Palworld | 47 cheats (health, stamina, items, and more) | [View](https://z10games.com/palworld) |
 | NIOH 3 | 50 cheats (health, stamina, items, skills, and more) | [View](https://z10games.com/nioh-3) |
+| Palworld | 47 cheats (health, stamina, items, and more) | [View](https://z10games.com/palworld) |
+| Cyberpunk 2077 | 43 cheats (health, stamina, money, attributes, and more) | [View](https://z10games.com/cyberpunk-2077) |
 | Dynasty Warriors: Origins | 37 cheats (health, musou, weapon proficiency, and more) | [View](https://z10games.com/dynasty-warriors-origins) |
 | Survival Log | 28 cheats (satiety, morale, items, and more) | [View](https://z10games.com/survival-log) |
+| The Blood of Dawnwalker | 32 cheats (health, stamina, resources, and more) | [View](https://z10games.com/the-blood-of-dawnwalker) |
+| ELDEN RING | 35 cheats (health, stamina, runes, items, and more) | Coming soon |
+| No Man's Sky | 27 cheats (health, shield, stamina, items, and more) | Coming soon |
+
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
 
