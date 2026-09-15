@@ -1,10 +1,10 @@
-# Z10 — Free PC Game Trainer
+# Z10Games — Free PC Game Trainer
 
-[![Download for Windows](https://img.shields.io/badge/Download-Z10%20for%20Windows-2ea44f?style=for-the-badge)](https://z10games.com/download/setup)
+[![Download for Windows](https://img.shields.io/badge/Download-Z10Games%20for%20Windows-2ea44f?style=for-the-badge)](https://z10games.com/download/setup)
 [![Latest release](https://img.shields.io/github/v/release/sqwain/Z10Games?style=for-the-badge&label=Latest%20release&color=blue)](https://github.com/sqwain/Z10Games/releases/latest)
 
 
-**Z10** is a free, easy-to-use game trainer for PC single-player games. No setup required — download, run, and toggle features in-game.
+**Z10Games** is a free, easy-to-use game trainer for PC single-player games. No setup required — download, run, and toggle features in-game.
 
 🏠 **Official website:** <https://z10games.com>
 
@@ -25,7 +25,7 @@
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
 
-## Why Z10
+## Why Z10Games
 
 - **Completely free** — no ads, no in-app purchases, free for personal use
 - **Works out of the box** — no manual memory addresses or injection setup
@@ -41,9 +41,9 @@ Get the latest version from the official website: **<https://z10games.com>**
 Found a bug or a cheat that stopped working after a game patch? [Open an issue](../../issues/new) — please include:
 
 - Game name and version
-- Z10 version (shown in the app footer)
+- Z10Games version (shown in the app footer)
 - What happened vs. what you expected
 
 ## Disclaimer
 
-Z10 is intended for **single-player, offline personal entertainment only**. It does not modify game files, does not connect to online services, and must not be used in any online/multiplayer mode. Using trainers in multiplayer games may violate the terms of service of those games and result in penalties. Use at your own risk.
+Z10Games is intended for **single-player, offline personal entertainment only**. It does not modify game files, does not connect to online services, and must not be used in any online/multiplayer mode. Using trainers in multiplayer games may violate the terms of service of those games and result in penalties. Use at your own risk.
