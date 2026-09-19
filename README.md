@@ -22,6 +22,7 @@
 | ELDEN RING | 35 cheats (health, stamina, runes, items, and more) | [View](https://z10games.com/elden-ring) |
 | No Man's Sky | 27 cheats (health, shield, stamina, items, and more) | [View](https://z10games.com/no-mans-sky) |
 | Mortal Shell II | 32 cheats (health, resolve, damage, resources, and more) | [View](https://z10games.com/mortal-shell-2) |
+| Daxia Rhapsody | 19 cheats (damage immunity, infinite stamina, money, crafting, and more) | [View](https://z10games.com/daxia-rhapsody) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
