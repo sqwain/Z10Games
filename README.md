@@ -23,6 +23,9 @@
 | No Man's Sky | 27 cheats (health, shield, stamina, items, and more) | [View](https://z10games.com/no-mans-sky) |
 | Mortal Shell II | 32 cheats (health, resolve, damage, resources, and more) | [View](https://z10games.com/mortal-shell-2) |
 | Daxia Rhapsody | 19 cheats (damage immunity, infinite stamina, money, crafting, and more) | [View](https://z10games.com/daxia-rhapsody) |
+| Baldur's Gate 3 | 15 cheats (damage immunity, spell slots, gold, attributes, and more) | Coming soon |
+| Path of Kung Fu | 41 cheats (health, qi, stamina, attributes, money, and more) | Coming soon |
+| Destiny of Immortal | 58 cheats (health, damage, money, items, cultivation, and more) | Coming soon |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
