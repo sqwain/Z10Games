@@ -30,6 +30,9 @@
 | Wandering Sword | 49 cheats (health, MP, crit, damage, money, martial points, and more) | [View](https://z10games.com/wandering-sword) |
 | Granblue Fantasy: Relink | 35 cheats (health, damage, stun, cooldown, gold, materials, and more) | [View](https://z10games.com/granblue-fantasy-relink) |
 | PRAGMATA | 27 cheats (health, ammo, hacking, resources, time control, and more) | [View](https://z10games.com/pragmata) |
+| Stellar Blade | 43 cheats (health, shield, energy, damage, money, items, and more) | [View](https://z10games.com/stellar-blade) |
+| Kyoto Xanadu: The Blooming Phantom | 54 cheats (health, gauges, damage, items, money, level, and more) | [View](https://z10games.com/kyoto-xanadu-the-blooming-phantom) |
+| Trails in the Sky 2nd Chapter | 55 cheats (health, EP, CP, gauges, sepith, items, and more) | [View](https://z10games.com/trails-in-the-sky-2nd-chapter) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
