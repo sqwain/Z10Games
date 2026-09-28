@@ -27,6 +27,9 @@
 | Path of Kung Fu | 41 cheats (health, qi, stamina, attributes, money, and more) | [View](https://z10games.com/path-of-kung-fu) |
 | Destiny of Immortal | 58 cheats (health, damage, money, items, cultivation, and more) | [View](https://z10games.com/destiny-of-immortal) |
 | Assassin's Creed Black Flag Resynced | 27 cheats (health, oxygen, ammo, ship upgrades, money, and more) | [View](https://z10games.com/assassins-creed-black-flag-resynced) |
+| Wandering Sword | 49 cheats (health, MP, crit, damage, money, martial points, and more) | [View](https://z10games.com/wandering-sword) |
+| Granblue Fantasy: Relink | 35 cheats (health, damage, stun, cooldown, gold, materials, and more) | [View](https://z10games.com/granblue-fantasy-relink) |
+| PRAGMATA | 27 cheats (health, ammo, hacking, resources, time control, and more) | [View](https://z10games.com/pragmata) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
