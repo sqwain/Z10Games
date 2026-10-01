@@ -33,9 +33,9 @@
 | Stellar Blade | 43 cheats (health, shield, energy, damage, money, items, and more) | [View](https://z10games.com/stellar-blade) |
 | Kyoto Xanadu: The Blooming Phantom | 54 cheats (health, gauges, damage, items, money, level, and more) | [View](https://z10games.com/kyoto-xanadu-the-blooming-phantom) |
 | Trails in the Sky 2nd Chapter | 55 cheats (health, EP, CP, gauges, sepith, items, and more) | [View](https://z10games.com/trails-in-the-sky-2nd-chapter) |
-| Trails in the Sky 1st Chapter | 51 cheats (health, EP, CP, gauges, sepith, items, and more) | Coming soon |
-| Total War: Warhammer III | 41 cheats (health, armies, morale, magic, money, resources, and more) | Coming soon |
-| The Witcher 3: Wild Hunt | 20 cheats (health, stamina, adrenaline, gold, items, and more) | Coming soon |
+| Trails in the Sky 1st Chapter | 51 cheats (health, EP, CP, gauges, sepith, items, and more) | [View](https://z10games.com/trails-in-the-sky-1st-chapter) |
+| Total War: Warhammer III | 41 cheats (health, armies, morale, magic, money, resources, and more) | [View](https://z10games.com/total-war-warhammer-3) |
+| The Witcher 3: Wild Hunt | 20 cheats (health, stamina, adrenaline, gold, items, and more) | [View](https://z10games.com/the-witcher-3-wild-hunt) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
