@@ -37,9 +37,9 @@
 | Total War: Warhammer III | 41 cheats (health, armies, morale, magic, money, resources, and more) | [View](https://z10games.com/total-war-warhammer-3) |
 | The Witcher 3: Wild Hunt | 20 cheats (health, stamina, adrenaline, gold, items, and more) | [View](https://z10games.com/the-witcher-3-wild-hunt) |
 | FANTASY LIFE i: The Girl Who Steals Time | 36 cheats (health, SP, money, items, crafting, movement, and more) | [View](https://z10games.com/fantasy-life-i-the-girl-who-steals-time) |
-| DYNASTY WARRIORS 3: Complete Edition Remastered | 28 cheats (health, musou, damage, drops, time, movement, and more) | Coming soon |
-| AI Limit | 30 cheats (health, sync rate, damage, items, attributes, and more) | Coming soon |
-| CODE VEIN II | 45 cheats (health, stamina, ichor, haze, items, teleport, and more) | Coming soon |
+| DYNASTY WARRIORS 3: Complete Edition Remastered | 28 cheats (health, musou, damage, drops, time, movement, and more) | [View](https://z10games.com/dynasty-warriors-3-complete-edition-remastered) |
+| AI Limit | 30 cheats (health, sync rate, damage, items, attributes, and more) | [View](https://z10games.com/ai-limit) |
+| CODE VEIN II | 45 cheats (health, stamina, ichor, haze, items, teleport, and more) | [View](https://z10games.com/code-vein-2) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
