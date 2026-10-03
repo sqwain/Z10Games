@@ -36,6 +36,10 @@
 | Trails in the Sky 1st Chapter | 51 cheats (health, EP, CP, gauges, sepith, items, and more) | [View](https://z10games.com/trails-in-the-sky-1st-chapter) |
 | Total War: Warhammer III | 41 cheats (health, armies, morale, magic, money, resources, and more) | [View](https://z10games.com/total-war-warhammer-3) |
 | The Witcher 3: Wild Hunt | 20 cheats (health, stamina, adrenaline, gold, items, and more) | [View](https://z10games.com/the-witcher-3-wild-hunt) |
+| FANTASY LIFE i: The Girl Who Steals Time | 36 cheats (health, SP, money, items, crafting, movement, and more) | [View](https://z10games.com/fantasy-life-i-the-girl-who-steals-time) |
+| DYNASTY WARRIORS 3: Complete Edition Remastered | 28 cheats (health, musou, damage, drops, time, movement, and more) | Coming soon |
+| AI Limit | 30 cheats (health, sync rate, damage, items, attributes, and more) | Coming soon |
+| CODE VEIN II | 45 cheats (health, stamina, ichor, haze, items, teleport, and more) | Coming soon |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
