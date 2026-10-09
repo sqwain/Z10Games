@@ -46,8 +46,12 @@
 | DEATH STRANDING DIRECTOR'S CUT | 26 cheats (health, stamina, weight, durability, materials, and more) | [View](https://z10games.com/death-stranding-directors-cut) |
 | DEATH STRANDING 2: ON THE BEACH | 36 cheats (health, stamina, ammo, durability, materials, time, and more) | [View](https://z10games.com/death-stranding-2-on-the-beach) |
 | DragonSword Awakening | 50 cheats (health, shield, damage, money, items, XP, and more) | [View](https://z10games.com/dragonsword-awakening) |
-| 007 First Light | 13 cheats (health, ammo, accuracy, damage, and more) | Coming soon |
-| Control Resonant | 22 cheats (health, energy, damage, resources, and more) | Coming soon |
+| 007 First Light | 13 cheats (health, ammo, accuracy, damage, and more) | [View](https://z10games.com/007-first-light) |
+| Control Resonant | 22 cheats (health, energy, damage, resources, and more) | [View](https://z10games.com/control-resonant) |
+| Last Epoch | 25 cheats (health, mana, cooldown, drops, damage, XP, and more) | [View](https://z10games.com/last-epoch) |
+| Into the Dead: Our Darkest Days | 19 cheats (health, stamina, stealth, ammo, durability, items, and more) | [View](https://z10games.com/into-the-dead-our-darkest-days) |
+| Tales of Arise | 29 cheats (health, AG, CP, combo, damage, items, and more) | [View](https://z10games.com/tales-of-arise) |
+| The Adventures of Elliot: The Millennium Tales | 27 cheats (health, magic, guard, damage, money, movement, and more) | [View](https://z10games.com/the-adventures-of-elliot-the-millennium-tales) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
