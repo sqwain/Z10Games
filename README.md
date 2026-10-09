@@ -43,6 +43,11 @@
 | Long Yin Li Zhi Zhuan | 76 cheats (health, stamina, damage, money, faction, attributes, and more) | [View](https://z10games.com/long-yin-li-zhi-zhuan) |
 | Hero's Adventure: Road to Passion | 62 cheats (health, MP, stamina, damage, money, XP, attributes, and more) | [View](https://z10games.com/heros-adventure-road-to-passion) |
 | Dream Rivakes | 31 cheats (health, SP, damage, money, XP, friendship, attributes, and more) | [View](https://z10games.com/dream-rivakes) |
+| DEATH STRANDING DIRECTOR'S CUT | 26 cheats (health, stamina, weight, durability, materials, and more) | [View](https://z10games.com/death-stranding-directors-cut) |
+| DEATH STRANDING 2: ON THE BEACH | 36 cheats (health, stamina, ammo, durability, materials, time, and more) | [View](https://z10games.com/death-stranding-2-on-the-beach) |
+| DragonSword Awakening | 50 cheats (health, shield, damage, money, items, XP, and more) | [View](https://z10games.com/dragonsword-awakening) |
+| 007 First Light | 13 cheats (health, ammo, accuracy, damage, and more) | Coming soon |
+| Control Resonant | 22 cheats (health, energy, damage, resources, and more) | Coming soon |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
