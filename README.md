@@ -52,6 +52,11 @@
 | Into the Dead: Our Darkest Days | 19 cheats (health, stamina, stealth, ammo, durability, items, and more) | [View](https://z10games.com/into-the-dead-our-darkest-days) |
 | Tales of Arise | 29 cheats (health, AG, CP, combo, damage, items, and more) | [View](https://z10games.com/tales-of-arise) |
 | The Adventures of Elliot: The Millennium Tales | 27 cheats (health, magic, guard, damage, money, movement, and more) | [View](https://z10games.com/the-adventures-of-elliot-the-millennium-tales) |
+| The Alters | 24 cheats (energy, crafting, resources, time, movement, and more) | Coming soon |
+| Star Wars Zero Company | 26 cheats (health, action points, damage, influence, credits, and more) | Coming soon |
+| Star Wars Outlaws | 28 cheats (health, ammo, damage, credits, reputation, vehicle, and more) | Coming soon |
+| S.T.A.L.K.E.R. 2: Heart of Chornobyl | 29 cheats (health, stamina, immunity, ammo, damage, money, environment, and more) | Coming soon |
+| Sins of a Solar Empire II | 21 cheats (credits, resources, construction, research, ships, and more) | Coming soon |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
