@@ -59,6 +59,7 @@
 | Sins of a Solar Empire II | 21 cheats (credits, resources, construction, research, ships, and more) | [View](https://z10games.com/sins-of-a-solar-empire-ii) |
 | Beast of Reincarnation | 46 cheats (health, gauges, damage, items, XP, attributes, and more) | [View](https://z10games.com/beast-of-reincarnation) |
 | Legend of Heroes: Three Kingdoms | 50 cheats (energy, troops, morale, damage, money, attributes, and more) | [View](https://z10games.com/legend-of-heroes-three-kingdoms) |
+| Dolls Nest | 17 cheats (DP, BP, EP, shield, damage, items, movement, and more) | Coming soon |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
