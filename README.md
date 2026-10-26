@@ -59,7 +59,19 @@
 | Sins of a Solar Empire II | 21 cheats (credits, resources, construction, research, ships, and more) | [View](https://z10games.com/sins-of-a-solar-empire-ii) |
 | Beast of Reincarnation | 46 cheats (health, gauges, damage, items, XP, attributes, and more) | [View](https://z10games.com/beast-of-reincarnation) |
 | Legend of Heroes: Three Kingdoms | 50 cheats (energy, troops, morale, damage, money, attributes, and more) | [View](https://z10games.com/legend-of-heroes-three-kingdoms) |
-| Dolls Nest | 17 cheats (DP, BP, EP, shield, damage, items, movement, and more) | Coming soon |
+| Dolls Nest | 17 cheats (DP, BP, EP, shield, damage, items, movement, and more) | [View](https://z10games.com/dolls-nest) |
+| Rune Factory: Guardians of Azuma | 36 cheats (health, RP, spirit, damage, money, items, farming, and more) | [View](https://z10games.com/rune-factory-guardians-of-azuma) |
+| R.I.P. - Reincarnation Insurance Program | 39 cheats (health, revives, ammo, damage, luck, drops, techs, and more) | [View](https://z10games.com/reincarnation-insurance-program) |
+| Shape of Dreams | 27 cheats (health, cooldown, damage, gold, XP, mastery, and more) | [View](https://z10games.com/shape-of-dreams) |
+| Legend of Mortal | 44 cheats (health, MP, stats, money, factions, crafting, and more) | [View](https://z10games.com/legend-of-mortal) |
+| Grounded | 18 cheats (health, stamina, hunger, items, science, time, and more) | [View](https://z10games.com/grounded) |
+| The Lost Village | 35 cheats (health, spirit stones, XP, prestige, resources, cultivation, and more) | [View](https://z10games.com/the-lost-village) |
+| Fatal Frame / Project Zero: Mask of the Lunar Eclipse | 14 cheats (health, films, items, lens, damage, score, and more) | [View](https://z10games.com/fatal-frame-mask-of-the-lunar-eclipse) |
+| Fatal Frame / Project Zero: Maiden of Black Water | 13 cheats (health, camera, films, damage, score, and more) | [View](https://z10games.com/fatal-frame-maiden-of-black-water) |
+| FATAL FRAME II: Crimson Butterfly REMAKE | 17 cheats (health, willpower, films, items, damage, score, and more) | [View](https://z10games.com/fatal-frame-ii-crimson-butterfly-remake) |
+| Darkest Dungeon | 14 cheats (health, stress, gold, heirlooms, damage, light, and more) | Coming soon |
+| Titan Quest II | 23 cheats (health, barrier, energy, damage, drops, attributes, and more) | Coming soon |
+| Terraria | 12 cheats (god mode, mana, items, damage, crafting, time, and more) | Coming soon |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
