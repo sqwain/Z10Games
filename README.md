@@ -69,9 +69,9 @@
 | Fatal Frame / Project Zero: Mask of the Lunar Eclipse | 14 cheats (health, films, items, lens, damage, score, and more) | [View](https://z10games.com/fatal-frame-mask-of-the-lunar-eclipse) |
 | Fatal Frame / Project Zero: Maiden of Black Water | 13 cheats (health, camera, films, damage, score, and more) | [View](https://z10games.com/fatal-frame-maiden-of-black-water) |
 | FATAL FRAME II: Crimson Butterfly REMAKE | 17 cheats (health, willpower, films, items, damage, score, and more) | [View](https://z10games.com/fatal-frame-ii-crimson-butterfly-remake) |
-| Darkest Dungeon | 14 cheats (health, stress, gold, heirlooms, damage, light, and more) | Coming soon |
-| Titan Quest II | 23 cheats (health, barrier, energy, damage, drops, attributes, and more) | Coming soon |
-| Terraria | 12 cheats (god mode, mana, items, damage, crafting, time, and more) | Coming soon |
+| Darkest Dungeon | 14 cheats (health, stress, gold, heirlooms, damage, light, and more) | [View](https://z10games.com/darkest-dungeon) |
+| Titan Quest II | 23 cheats (health, barrier, energy, damage, drops, attributes, and more) | [View](https://z10games.com/titan-quest-ii) |
+| Terraria | 12 cheats (god mode, mana, items, damage, crafting, time, and more) | [View](https://z10games.com/terraria) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
