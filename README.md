@@ -72,6 +72,20 @@
 | Darkest Dungeon | 14 cheats (health, stress, gold, heirlooms, damage, light, and more) | [View](https://z10games.com/darkest-dungeon) |
 | Titan Quest II | 23 cheats (health, barrier, energy, damage, drops, attributes, and more) | [View](https://z10games.com/titan-quest-ii) |
 | Terraria | 12 cheats (god mode, mana, items, damage, crafting, time, and more) | [View](https://z10games.com/terraria) |
+| Manor Lords | 20 cheats (treasury, influence, resources, approval, health, and more) | [View](https://z10games.com/manor-lords) |
+| DRAGON QUEST VII Reimagined | 40 cheats (health, mana, damage, items, money, XP, and more) | [View](https://z10games.com/dragon-quest-vii-reimagined) |
+| Hell Clock | 18 cheats (health, mana, damage, gold, soulstone, XP, time, and more) | [View](https://z10games.com/hell-clock) |
+| The Legend of Heroes: Kai no Kiseki | 65 cheats (health, EP, CP, damage, sepith, items, and more) | [View](https://z10games.com/the-legend-of-heroes-kai-no-kiseki) |
+| Dying Light: The Beast | 34 cheats (health, stamina, damage, ammo, crafting, movement, and more) | [View](https://z10games.com/dying-light-the-beast) |
+| Persona 3 Reload | 35 cheats (health, SP, damage, items, money, XP, stats, and more) | [View](https://z10games.com/persona-3-reload) |
+| Dying Light 2 Stay Human: Reloaded Edition | 33 cheats (health, stamina, damage, ammo, crafting, movement, and more) | [View](https://z10games.com/dying-light-2-stay-human) |
+| Streets of Rage 4 | 9 cheats (health, lives, damage, special moves, score, and more) | [View](https://z10games.com/streets-of-rage-4) |
+| Persona 4 Golden | 13 cheats (health, SP, damage, items, money, XP, and more) | [View](https://z10games.com/persona-4-golden) |
+| FINAL FANTASY XVI | 26 cheats (health, limit break, damage, gil, items, XP, stats, and more) | [View](https://z10games.com/final-fantasy-xvi) |
+| FINAL FANTASY RESONANCE | 47 cheats (health, MP, damage, money, items, XP, attributes, and more) | [View](https://z10games.com/final-fantasy-resonance) |
+| World War Z: Aftermath | 8 cheats (health, ammo, damage, money, speed, and more) | [View](https://z10games.com/world-war-z-aftermath) |
+| Fallout 4 | 22 cheats (health, AP, ammo, damage, building, hacking, and more) | [View](https://z10games.com/fallout-4) |
+| Gears of War: E-Day | 18 cheats (health, ammo, damage, cooldown, movement, and more) | [View](https://z10games.com/gears-of-war-e-day) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
