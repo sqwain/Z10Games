@@ -86,6 +86,16 @@
 | World War Z: Aftermath | 8 cheats (health, ammo, damage, money, speed, and more) | [View](https://z10games.com/world-war-z-aftermath) |
 | Fallout 4 | 22 cheats (health, AP, ammo, damage, building, hacking, and more) | [View](https://z10games.com/fallout-4) |
 | Gears of War: E-Day | 18 cheats (health, ammo, damage, cooldown, movement, and more) | [View](https://z10games.com/gears-of-war-e-day) |
+| Persona 5 Strikers | 16 cheats (health, SP, damage, money, ammo, XP, and more) | [View](https://z10games.com/persona-5-strikers) |
+| Persona 5 Royal | 34 cheats (health, SP, damage, money, items, XP, stats, and more) | [View](https://z10games.com/persona-5-royal) |
+| Atomic Heart | 29 cheats (health, energy, ammo, damage, materials, crafting, and more) | [View](https://z10games.com/atomic-heart) |
+| Captain Tsubasa: Rise of New Champions | 12 cheats (spirit, V Zone, match timer, points, and more) | [View](https://z10games.com/captain-tsubasa-rise-of-new-champions) |
+| Final Fantasy VII Remake Intergrade | 25 cheats (health, MP, ATB, damage, gil, items, and more) | [View](https://z10games.com/final-fantasy-vii-remake-intergrade) |
+| FINAL FANTASY VII REBIRTH | 58 cheats (health, MP, ATB, damage, gil, items, mini-games, and more) | [View](https://z10games.com/final-fantasy-vii-rebirth) |
+| Inazuma Eleven: Victory Road | 35 cheats (stamina, damage, items, tension, match time, and more) | [View](https://z10games.com/inazuma-eleven-victory-road) |
+| Banner of the Maid | 27 cheats (HP, MRL, damage, medals, reports, attributes, and more) | [View](https://z10games.com/banner-of-the-maid) |
+| Wuchang: Fallen Feathers | 25 cheats (health, stamina, damage, items, materials, movement, and more) | [View](https://z10games.com/wuchang-fallen-feathers) |
+| The Legend of Heroes: Trails into Reverie | 45 cheats (health, EP, CP, damage, sepith, items, mini-games, and more) | [View](https://z10games.com/the-legend-of-heroes-trails-into-reverie) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
