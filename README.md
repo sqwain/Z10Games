@@ -92,10 +92,18 @@
 | Captain Tsubasa: Rise of New Champions | 12 cheats (spirit, V Zone, match timer, points, and more) | [View](https://z10games.com/captain-tsubasa-rise-of-new-champions) |
 | Final Fantasy VII Remake Intergrade | 25 cheats (health, MP, ATB, damage, gil, items, and more) | [View](https://z10games.com/final-fantasy-vii-remake-intergrade) |
 | FINAL FANTASY VII REBIRTH | 58 cheats (health, MP, ATB, damage, gil, items, mini-games, and more) | [View](https://z10games.com/final-fantasy-vii-rebirth) |
-| Inazuma Eleven: Victory Road | 35 cheats (stamina, damage, items, tension, match time, and more) | [View](https://z10games.com/inazuma-eleven-victory-road) |
+| Inazuma Eleven: Victory Road | 37 cheats (stamina, damage, items, tension, match time, and more) | [View](https://z10games.com/inazuma-eleven-victory-road) |
 | Banner of the Maid | 27 cheats (HP, MRL, damage, medals, reports, attributes, and more) | [View](https://z10games.com/banner-of-the-maid) |
 | Wuchang: Fallen Feathers | 25 cheats (health, stamina, damage, items, materials, movement, and more) | [View](https://z10games.com/wuchang-fallen-feathers) |
 | The Legend of Heroes: Trails into Reverie | 45 cheats (health, EP, CP, damage, sepith, items, mini-games, and more) | [View](https://z10games.com/the-legend-of-heroes-trails-into-reverie) |
+| Kingdom Come: Deliverance II | 38 cheats (health, stamina, damage, money, stats, skills, and more) | [View](https://z10games.com/kingdom-come-deliverance-ii) |
+| The Legend of Heroes: Trails through Daybreak | 51 cheats (health, EP, CP, damage, sepith, items, and more) | [View](https://z10games.com/the-legend-of-heroes-trails-through-daybreak) |
+| Supermarket Simulator | 9 cheats (money, SP, time, movement, and more) | [View](https://z10games.com/supermarket-simulator) |
+| The Legend of Heroes: Trails through Daybreak II | 62 cheats (health, EP, CP, damage, sepith, items, and more) | [View](https://z10games.com/the-legend-of-heroes-trails-through-daybreak-ii) |
+| The Legend of Heroes: Trails of Cold Steel III | 44 cheats (health, EP, CP, damage, sepith, items, and more) | [View](https://z10games.com/the-legend-of-heroes-trails-of-cold-steel-iii) |
+| The Legend of Heroes: Trails of Cold Steel IV | 42 cheats (health, EP, CP, damage, sepith, items, and more) | [View](https://z10games.com/the-legend-of-heroes-trails-of-cold-steel-iv) |
+| Dragon Quest Builders 2 | 12 cheats (health, stamina, damage, items, XP, crafting, and more) | [View](https://z10games.com/dragon-quest-builders-2) |
+| Planet Zoo | 6 cheats (money, staff, research, and more) | [View](https://z10games.com/planet-zoo) |
 
 
 More games are added based on community votes — [vote for the next game](https://z10games.com/#vote).
